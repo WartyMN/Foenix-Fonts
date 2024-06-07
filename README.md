@@ -30,3 +30,6 @@ These are 8x8 fonts for use with the Foenix F256JR and K retro computers. Each f
 
 ## thicke - inspired by the uppercase characters in the C-64 version of Blue Max
 ![F256 Standard Font](images/thicke.png)
+
+## BigBlue - inspired by the IBM 8x8 EGA font
+![F256 Standard Font](images/thicke.png)
