@@ -4,6 +4,9 @@ These are 8x8 fonts for use with the Foenix F256JR and K retro computers. Each f
 ## f256 std - the standard font that ships with your F256JR or F256K
 ![F256 Standard Font](images/f256std.png)
 
+## f256 std bold - like the standard font, but with more pixels
+![F256 Standard Font](images/f256std_bold.png)
+
 ## c256 style - Inspired by the EGA font that shipped with the Foenix C256 computers
 ![F256 Standard Font](images/c256_serif.png)
 
