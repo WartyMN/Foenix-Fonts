@@ -31,6 +31,9 @@ These are 8x8 fonts for use with the Foenix F256JR and K retro computers. Each f
 ## boxed
 ![F256 Standard Font](images/boxed.png)
 
+## boxed - bold
+![F256 Standard Font](images/boxed_bold.png)
+
 ## thicke - inspired by the uppercase characters in the C-64 version of Blue Max
 ![F256 Standard Font](images/thicke.png)
 
